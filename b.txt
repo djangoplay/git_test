@@ -1,2 +1,6 @@
 def func1()
     print("hello fun1")
+
+
+def small_function():
+    print("这是极其小的功能!")
