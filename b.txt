@@ -1,2 +1,7 @@
 def func1()
     print("hello fun1")
+
+
+def big_function():
+    print("司马狗剩添加了大功能!")
+
