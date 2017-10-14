@@ -3,4 +3,8 @@ def func1()
 
 
 def small_function():
-    print("这是极其小的功能!")
+   print("这是极其小的功能!")
+
+def big_function():
+    print("司马狗剩添加了大功能!")
+
